@@ -1,0 +1,17 @@
+# Environments
+venv/
+.venv/
+env/
+
+# Security (NEVER UPLOAD API KEYS)
+.env
+
+# Database and Data Files
+data/chroma_db/
+*.sqlite3
+*.json
+
+# Python Cache
+__pycache__/
+*.pyc
+.DS_Store

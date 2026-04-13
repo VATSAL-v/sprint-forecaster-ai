@@ -1,0 +1,19 @@
+[theme]
+# The main accent color (used for the 'Draft Sprint Plan' button and loading bars)
+primaryColor = "#ffb612" # Swap this with your primary brand color
+
+# The background color of the main app
+backgroundColor = "#000000"
+
+# The background color of the sidebar and editable text boxes
+secondaryBackgroundColor = "#F1F3F6"
+
+# The color of all the text
+textColor = "#ffb612"
+
+# Font style ("sans serif", "serif", or "monospace")
+font = "sans serif"
+
+[client]
+# This hides the default Streamlit hamburger menu in the top right to make it look like a proprietary app
+toolbarMode = "minimal"

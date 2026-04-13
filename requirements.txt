@@ -1,0 +1,9 @@
+google-generativeai
+atlassian-python-api
+langchain
+langchain-google-genai
+langgraph
+chromadb
+streamlit
+python-dotenv
+pydantic
