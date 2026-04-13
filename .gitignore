@@ -10,6 +10,7 @@ env/
 data/chroma_db/
 *.sqlite3
 *.json
+data/chroma_db_enterprise/
 
 # Python Cache
 __pycache__/
