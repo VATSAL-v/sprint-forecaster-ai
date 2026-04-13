@@ -1,9 +1,6 @@
-google-generativeai
-atlassian-python-api
-langchain
-langchain-google-genai
-langgraph
-chromadb
 streamlit
-python-dotenv
+google-genai
+chromadb
 pydantic
+python-dotenv
+langchain-text-splitters
