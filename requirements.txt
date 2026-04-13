@@ -5,3 +5,4 @@ pydantic
 python-dotenv
 langchain-text-splitters
 protobuf<=3.20.3
+atlassian-python-api
